@@ -1,0 +1,6 @@
+framework module Pods_NNReactiveLogin {
+  umbrella header "Pods-NNReactiveLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
